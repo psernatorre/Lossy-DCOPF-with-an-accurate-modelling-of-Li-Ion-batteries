@@ -1,0 +1,9 @@
+Parameter,Value
+Power shedding cost (USD),0.0
+Thermal variable cost (USD),1.546036887869855e7
+Discharging power cost (USD),135102.2044
+Charging power cost (USD),-93088.15530000001
+Total cost (USD),1.5502382927798549e7
+Status,FEASIBLE_POINT OPTIMAL
+Type of BESS modeling,Accurate
+Capacity factors and load data from,2016-01-01
