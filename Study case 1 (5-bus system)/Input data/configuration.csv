@@ -1,0 +1,15 @@
+Parameter,Value
+Start_case_day,1/1/2016
+Final_of_case,1/1/2016
+Date_format,mm/dd/yyyy
+Resolution,60
+Price_P_shed (Dolar/kWh),8000
+CPLEX tolerance,1E-05
+CPLEX cores,20
+MVA base,100
+Max_digits_CSVfiles,3
+Max_iteration_losses,10
+Tolerance_losses,0.15
+Bess_modeling(0:traditional_1:accurate),1
+Losses_modeling(0:cos_1:rf2),1
+Stopping_criteria(0:losses_1:gen),1
